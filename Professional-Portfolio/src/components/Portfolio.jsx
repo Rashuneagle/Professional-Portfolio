@@ -4,7 +4,7 @@ import project1Image from '../assets/Project-1-Portfolio.png';
 
 const projects = [
   {
-    title: 'Project 1',
+    title: 'Giphy Randomizer',
     image: project1Image, 
     deployedUrl: 'https://rashuneagle.github.io/our_Group_Project/',
     repoUrl: 'https://github.com/Rashuneagle/our_Group_Project'
