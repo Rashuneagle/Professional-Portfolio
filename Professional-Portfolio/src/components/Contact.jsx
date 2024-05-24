@@ -26,7 +26,7 @@ const Contact = () => {
     setErrors(newErrors);
 
     if (Object.keys(newErrors).length === 0) {
-      // Handle form submission (e.g., send an email or save data)
+      // Handle form submission (send an email or save data)
       alert('Form submitted');
     }
   };
